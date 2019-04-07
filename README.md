@@ -25,3 +25,5 @@ similitudes y differencias entre ambas categorias ya asignadas con anterioridad.
 4. Sacar el ruido de las preguntas marcadas como sinceras para que no afecten la creacion de las categorias.
 
 5. Generar los tags y concluir con respecto a las hipotesis planteadas
+## Link al dataset
+El dataset puede ser encontrado en: https://www.kaggle.com/c/quora-insincere-questions-classification
