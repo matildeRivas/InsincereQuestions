@@ -1,0 +1,22 @@
+# Plan de Acción Hito 1
+
+### Motivación
+Podemos ver que la caracterizacion hecha previamente no es la mas adecuada y ademas no es muy descriptiva. La motivacion es poder realizar una caracterizacion de
+las preguntas de manera que sea lo mas representativa posible y siga con el modelo de pregunta insincera o no.
+
+### Hipotesis
+
+
+### Como hacerlo (plan de accion)?
+1. Primero generar un analisis de los datos sin preprocesar. Estos pueden ser:
+    - Contar n-gramas, generar word clouds de los n-gramas en cada tipo del dataset (insincero y sincero).
+    - Ver su metadata, es decir, evaluar caracteristicas que tienen una pregunta insincera con respecto a su estructura como palabra (largo de estos, su promedio de palabras unicas usadas, etc...)
+    - Generar word clouds de palabras unicas en cada tipo del dataset .
+2. A partir de esto poder realizar las categorias que queremos y ver correlacion entre ambas exploraciones de los datos generadas. Ademas podemos ver las
+similitudes y differencias entre ambas categorias ya asignadas con anterioridad.
+
+3. Ver como serian los speech de declaraciones con estas categorias en otros trabajos como tweeter, facebook, comentarios de emol, etc...
+
+4. Sacar el ruido de las preguntas marcadas como sinceras para que no afecten la creacion de las categorias.
+
+5. Generar los tags y concluir con respecto a las hipotesis planteadas
