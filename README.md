@@ -27,3 +27,9 @@ similitudes y differencias entre ambas categorias ya asignadas con anterioridad.
 5. Generar los tags y concluir con respecto a las hipotesis planteadas
 ## Link al dataset
 El dataset puede ser encontrado en: https://www.kaggle.com/c/quora-insincere-questions-classification
+
+#Parte 2: Reunión con los profes
+1. Ver librerias de prediccion de sentimientos en las frases, de n-gramas, lexicones, de emociones. El score de los n-gramas, topic models (algoritmos para ver el topico con cierta distribución de probablidad).
+-> Añadir estas features para mejorar la predicción, y realizar experimentos sobre estas features para ver cuales son las que ganamos más información.
+2. Hacer experimentos, con la añadición de el analisis
+3. Ver emotion lexicons sobre las palabras.
