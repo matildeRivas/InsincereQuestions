@@ -33,3 +33,14 @@ El dataset puede ser encontrado en: https://www.kaggle.com/c/quora-insincere-que
 -> Añadir estas features para mejorar la predicción, y realizar experimentos sobre estas features para ver cuales son las que ganamos más información.
 2. Hacer experimentos, con la añadición de el analisis
 3. Ver emotion lexicons sobre las palabras.
+
+# Planificacion para el hito 2
+1. ** Joaquin**: Generar un bag of words y poder hacer clasificadores para compararlos con los otros modelos.
+2. Agregar caracteristicas para ver mejoras en el clasificador:
+	- **Nico**: Librerias que usa el profe (affective tweets)
+	- **Nico**: Columnas de emociones (lexicones)
+	- **Nico**: N-gramas con tokenizer
+	- **Gabriel**: Pasar por embeddings y hacer clusters
+	- **Mati**: Ver con las features que habiamos sacado para el hito 1
+
+Trabajo a futuro: Podriamos ver algo con NLP
